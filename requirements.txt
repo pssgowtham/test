@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+pydantic-settings>=2.2
+python-multipart>=0.0.9
+azure-ai-documentintelligence>=1.0.0
+azure-core>=1.30
+openai>=1.30
